@@ -1,8 +1,7 @@
 # 💫 Hi 👋, I'm Manoj Dhanuk
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/40688dfc-fbd7-42ff-8be0-784bca36dbf3" />
-"
-Email Me 👉 ✉️ **manojdhanuk034@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<img align="right" alt="coding" width="400" height="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 - 🔭 **I’m currently working on:** Weather App
 - 🌱 **I’m currently learning:** Graphic Designer

@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Manoj Dhanuk
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-
+<img align="right" alt="coding" width="400" src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/40688dfc-fbd7-42ff-8be0-784bca36dbf3" />
+"
 Email Me 👉 ✉️ **manojdhanuk034@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Weather App
 - 🌱 **I’m currently learning:** Graphic Designer
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** C,C++
 - 📫 **How to reach me:** manojdhanuk034@gmail.com
 - 😄 **Pronouns:** Manoj
